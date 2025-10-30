@@ -1,0 +1,15 @@
+.python-version
+__pycache__/
+.ruff_cache/
+.DS_Store
+.vscode/
+lightning_logs/
+wandb/
+
+target/
+
+.venv/
+datasets
+datasets/
+experiments
+experiments/
