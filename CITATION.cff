@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Koo Øhrstrøm"
-  given-names: "Christoffer"
+- family-names: "Øhrstrøm"
+  given-names: "Christoffer Koo"
   orcid: "https://orcid.org/0009-0002-4268-3770"
 title: "spiking-patches"
 version: 1.0.0
@@ -11,8 +11,8 @@ url: "https://github.com/DTU-PAS/spiking-patches"
 preferred-citation:
   type: article
   authors:
-  - family-names: "Koo Øhrstrøm"
-    given-names: "Christoffer"
+  - family-names: "Øhrstrøm"
+    given-names: "Christoffer Koo"
     orcid: "https://orcid.org/0009-0002-4268-3770"
   - family-names: "Güldenring"
     given-names: "Ronja"
