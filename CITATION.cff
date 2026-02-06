@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Koo Øhrstrøm"
+  given-names: "Christoffer"
+  orcid: "https://orcid.org/0009-0002-4268-3770"
+title: "spiking-patches"
+version: 1.0.0
+date-released: 2025-10-30
+url: "https://github.com/DTU-PAS/spiking-patches"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Koo Øhrstrøm"
+    given-names: "Christoffer"
+    orcid: "https://orcid.org/0009-0002-4268-3770"
+  - family-names: "Güldenring"
+    given-names: "Ronja"
+    orcid: "https://orcid.org/0000-0001-6430-7405"
+  - family-names: "Nalpantidis"
+    given-names: "Lazaros"
+    orcid: "https://orcid.org/0000-0002-3620-4123"
+  doi: "10.48550/arXiv.2510.26614"
+  journal: "arXiv preprint arXiv:2510.26614"
+  month: 10
+  title: "Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras"
+  year: 2025

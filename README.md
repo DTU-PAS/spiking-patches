@@ -9,10 +9,13 @@ Spiking Patches is implemented in Rust. See *src/* and *sp/tokenizer.py* if you 
 **Citation**
 
 ``` bibtex
-@InProceedings{Ohrstrom_2025,
-  author = {Øhrstrøm, Christoffer Koo and Güldenring, Ronja and Nalpantidis, Lazaros},
-  title  = {Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras},
-  year   = {2025},
+@article{ohrstrom2025spikingPatches,
+    author = {Øhrstrøm, Christoffer Koo and Güldenring, Ronja and Nalpantidis, Lazaros},
+    doi = {10.48550/arXiv.2510.26614},
+    journal = {arXiv preprint arXiv:2510.26614},
+    month = oct,
+    title = {Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras},
+    year = {2025}
 }
 ```
 
