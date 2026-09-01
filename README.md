@@ -1,21 +1,19 @@
-# Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras
+# Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras (IROS 2026)
 
 ![alt text](static/intro.png)
 
-This is the official repository for the paper: *Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras*.
+This is the official repository for the IROS 2026 paper: *Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras*.
 
 Spiking Patches is implemented in Rust. See *src/* and *sp/tokenizer.py* if you are mainly interested in the code for Spiking Patches. The rest of the code is related to the experiments in the paper.
 
 **Citation**
 
 ``` bibtex
-@article{ohrstrom2025spikingPatches,
-    author = {Øhrstrøm, Christoffer Koo and Güldenring, Ronja and Nalpantidis, Lazaros},
-    doi = {10.48550/arXiv.2510.26614},
-    journal = {arXiv preprint arXiv:2510.26614},
-    month = oct,
-    title = {Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras},
-    year = {2025}
+@inproceedings{ohrstrom2026spikingPatches,
+  author = {Øhrstrøm, Christoffer Koo and Güldenring, Ronja and Nalpantidis, Lazaros},
+  title  = {Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras},
+  booktitle = {2026 {{IEEE}}/{{RSJ}} International Conference on Intelligent Robots & Systems (IROS)},
+  year   = {2026},
 }
 ```
 
