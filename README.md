@@ -7,7 +7,7 @@
   </p>
   <p align="center">
     <sup>1</sup>Technical University of Denmark<br/>
-    Accpeted at <b>IROS 2026</b>
+    Accepted at <b>IROS 2026</b>
   </p>
   <p align="center">
   </p>
