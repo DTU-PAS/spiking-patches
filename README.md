@@ -1,4 +1,21 @@
-# Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras (IROS 2026)
+<p align="center">
+  <h2 align="center">Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras</h2>
+  <p align="center">
+    <a href="https://chrisohrstrom.github.io">Christoffer Koo Øhrstrøm</a><sup>1</sup>&nbsp;&nbsp;
+    <a href="https://rgring.github.io">Ronja Güldenring</a><sup>1</sup>&nbsp;&nbsp;
+    <a href="https://lanalpa.github.io">Lazaros Nalpantidis</a><sup>1</sup>
+  </p>
+  <p align="center">
+    <sup>1</sup>Technical University of Denmark<br/>
+    Accpeted at <b>IROS 2026</b>
+  </p>
+  <p align="center">
+  </p>
+  <p align="center">
+    <a href="https://arxiv.org/abs/2510.26614"><img src="https://img.shields.io/badge/Paper-arXiv-lightblue"></a>
+    <a href="https://chrisohrstrom.github.io/spiking-patches/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
+  </p>
+</p>
 
 ![alt text](static/intro.png)
 
